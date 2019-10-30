@@ -1,0 +1,19 @@
+{
+    "name": "picasso",
+    "description": "bot discord",
+    "version": "alpha",
+    "keywords": [
+        "discord",
+        "bot",
+        "tables"
+    ],
+    "main": "index.js",
+    "author": "Amaury Bianchi",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bamaury-fr/Picasso.git"
+    },
+    "dependencies": {
+        "discord.js": "^11.5.1"
+    }
+}

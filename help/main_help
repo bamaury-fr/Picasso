@@ -1,0 +1,8 @@
+Bonjour, je m'appelle Picasso, et je peux vous aider à gérer des tableaux :)
+
+Liste des commandes disponibles !
+
+!Picasso help ==> affiche l'aide principale. 
+!Picasso help list ==> affiche toutes les aides disponibles.
+!Picasso create_table [tableau] ==> Tapez "!Picasso help create_table" pour plus de détails...
+!Picasso ping ==> permet de tester si le bot répond.
